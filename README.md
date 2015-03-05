@@ -36,11 +36,12 @@ Extra Interactivity
 
 Techs
 ----
-areallybigpageJs
-Materialize
-Jquery
-Socket.io
-NodeJs
-ExpressJs
-# andela_really
+
+		areallybigpageJs
+		Materialize
+		Jquery
+		Socket.io
+		NodeJs
+		ExpressJs
+		
 # andela_really
