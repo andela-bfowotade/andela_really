@@ -1,0 +1,31 @@
+{
+  "name": "andela_really",
+  "version": "1.0.0",
+  "description": "Signature for Andela",
+  "main": "areallybigpage.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andela-bfowotade/andela_really.git"
+  },
+  "keywords": [
+    "Signature",
+    "babajide",
+    "andela",
+    "andela",
+    "really"
+  ],
+  "author": "Babajide Fowotade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-bfowotade/andela_really/issues"
+  },
+  "homepage": "https://github.com/andela-bfowotade/andela_really"
+}
