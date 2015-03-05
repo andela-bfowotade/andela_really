@@ -4,7 +4,7 @@ var server = require('http').createServer(app);
 var io = require('socket.io').listen(server);
 var fs = require('fs');
 
-server.listen(5000);
+server.listen(process.env.PORT || 5000);
 
 app.use(express.static(__dirname + '/public'));
 
