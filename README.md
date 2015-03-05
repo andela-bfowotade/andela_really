@@ -9,8 +9,7 @@ Install
 
 2) Install the `express` and `socket.io` modules with 
 
-    npm install express
-    npm install socket.io
+    npm install 
     bower install
 
 3) Run 
@@ -43,5 +42,5 @@ Techs
 		Socket.io
 		NodeJs
 		ExpressJs
-		
+
 # andela_really
