@@ -1,0 +1,12 @@
+{
+    "lastid": 435,
+    "texts": {
+        "id1": {
+            "x": 1230,
+            "y": 721,
+            "size": 20,
+            "text": "Hello people",
+            "id": "id1"
+        }
+    }
+}
