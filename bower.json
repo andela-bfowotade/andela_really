@@ -1,0 +1,29 @@
+{
+  "name": "reallybigpicture",
+  "version": "0.0.0",
+  "homepage": "https://andela-bfowotade.github.io/reallyAndela",
+  "description": "Signature for Andela",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Signature",
+    "andela",
+    "babajide"
+  ],
+  "authors": [
+    "Babajide Fowotade"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.95.3"
+  }
+}
