@@ -1,14 +1,9 @@
 /*
- *
- * bigpicture.js
- *
- * bigpicture.js is a library that allows infinite panning and infinite zooming in HTML pages.
- *               See it in action on http://www.bigpicture.bi/demo !
- *
- * author:  Joseph Ernest (twitter: @JosephErnest)
- * url:     http://github.com/josephernest/bigpicture.js
- *
- */
+
+  a really big picture thanks to @ernest for the library
+  and my hands for hacking and breaking to my taste.Lol
+
+*/
 
 var bigpicture = (function() {
   "use strict";
